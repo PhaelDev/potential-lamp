@@ -1,5 +1,3 @@
 Só um arquivo de exemplo pra aula de git
 
-aprendendo a usar o GitHub
-
-adicionando novas linhas
+aprendendo a usar o github
