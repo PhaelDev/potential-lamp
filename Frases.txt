@@ -1,3 +1,7 @@
-Só um arquivo de exemplo pra aula de git
+Aqui estão 5 frases importantes para qualquer desenvolvedor júnior:
 
-aprendendo a usar o github
+    "Código limpo é a base de um bom software." - Escrever código legível e organizado é crucial para o trabalho em equipe e manutenção do projeto.
+    "Aprenda com seus erros e com os erros dos outros." - Errar faz parte do processo de aprendizado, o importante é analisar as falhas e buscar soluções para não repeti-las.
+    "A comunicação é tão importante quanto o código." - Saber comunicar suas ideias, dúvidas e soluções de forma clara e concisa é fundamental para o sucesso na carreira.
+    "Nunca pare de aprender." - A tecnologia está em constante evolução, é essencial manter-se atualizado e buscar novos conhecimentos.
+    "Seja curioso e questione tudo." - Não tenha medo de perguntar e buscar entender o "porquê" das coisas, isso ajuda a desenvolver o pensamento crítico e a encontrar soluções inovadoras.
