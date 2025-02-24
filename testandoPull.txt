@@ -1,1 +1,0 @@
-criando arquivo de teste para fazer o git pull e depois o git push
